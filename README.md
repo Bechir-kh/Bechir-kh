@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=ef4444&width=760&lines=Full-stack+developer%3BOpen-source+enthusiast&center=true&vCenter=true" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=ef4444&width=760&lines=Cybersecurity+engineer%3BAI+%26+Cloud+Security+enthusiast&center=true&vCenter=true" alt="Animated introduction" />
 
 </div>
 
