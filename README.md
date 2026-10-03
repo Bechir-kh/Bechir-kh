@@ -12,7 +12,7 @@
 
 <p><strong>Cybersecurity engineer</strong></p>
 
-<p>Cybersecurity & IT engineer. SIEM/IDPS, Python programming, network security and SOC automation. RHCSA, PCAP. Build it. Break it. Secure it.</p>
+<p>Cybersecurity & IT engineer. RHCSA 10 | PCAP. SIEM/IDPS, Python programming, network security and SOC automation. RHCSA, PCAP. Build it. Break it. Secure it.</p>
 
 </div>
 
